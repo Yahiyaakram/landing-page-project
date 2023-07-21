@@ -1,1 +1,1 @@
-# landing-page-project, Created an interactive navigation menu that chnages the colour and styles when scrolled or when hovering over a menunitem,the navigation menu lhave fixed and visible on all pages and the project consists of html css and javascript.
+# landing-page-project, Created an interactive navigation menu that changes the colour and styles when scrolled or when hovering over a menu item,the navigation menu have fixed and visible on all pages and the project consists of html css and javascript files.
